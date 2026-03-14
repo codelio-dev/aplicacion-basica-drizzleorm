@@ -1,6 +1,6 @@
 # Aplicación Básica con Drizzle ORM
 
-Una aplicación CRUD básica usando [Drizzle ORM](https://orm.drizzle.team/) con SQLite (vía libSQL). Este proyecto es el repositorio complementario del tutorial [Tutorial básico de Drizzle ORM](https://codelio.fly.dev/articulos/tutorial-basico-de-drizzle-orm/).
+Una aplicación CRUD básica usando [Drizzle ORM](https://orm.drizzle.team/) con SQLite (vía libSQL). Este repositorio es complementario del tutorial [Tutorial básico de Drizzle ORM](https://codel.io/articulos/tutorial-basico-de-drizzle-orm/).
 
 > [Read in English](README.en.md)
 
