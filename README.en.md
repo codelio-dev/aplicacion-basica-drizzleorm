@@ -14,7 +14,7 @@ A basic CRUD application using [Drizzle ORM](https://orm.drizzle.team/) with SQL
 
 ## Prerequisites
 
-- [Node.js](https://nodejs.org/) (v18 or higher recommended)
+- [Node.js](https://nodejs.org/) (v18 or higher recommended) or [Bun](https://bun.sh)
 
 ## Installation
 
@@ -129,8 +129,8 @@ The application demonstrates basic CRUD operations with Drizzle ORM:
 
 ## License
 
-[ISC](https://opensource.org/licenses/ISC)
+[Unlicense](https://unlicense.org)
 
 ## Author
 
-Sergio Gallardo - [codelio](https://codelio.fly.dev)
+Sergio Gallardo - [codelio](https://codel.io)

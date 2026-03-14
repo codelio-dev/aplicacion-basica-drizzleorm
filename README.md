@@ -14,7 +14,7 @@ Una aplicación CRUD básica usando [Drizzle ORM](https://orm.drizzle.team/) con
 
 ## Requisitos Previos
 
-- [Node.js](https://nodejs.org/) (v18 o superior recomendado)
+- [Node.js](https://nodejs.org/) (v18 o superior recomendado) o [Bun](https://bun.sh)
 
 ## Instalación
 
@@ -129,8 +129,8 @@ La aplicación demuestra operaciones CRUD básicas con Drizzle ORM:
 
 ## Licencia
 
-[ISC](https://opensource.org/licenses/ISC)
+[Unlicense](https://unlicense.org)
 
 ## Autor
 
-Sergio Gallardo - [codelio](https://codelio.fly.dev)
+Sergio Gallardo - [codelio](https://codel.io)

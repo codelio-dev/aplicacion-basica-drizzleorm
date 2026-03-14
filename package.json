@@ -14,7 +14,7 @@
     "type": "git",
     "url": "git+https://github.com/codel-io/aplicacion-basica-drizzleorm.git"
   },
-  "license": "ISC",
+  "license": "Unlicense",
   "author": "Sergio Gallardo",
   "type": "commonjs",
   "main": "src/index.ts",
