@@ -1,0 +1,36 @@
+{
+  "name": "aplicacion-basica-drizzleorm",
+  "version": "1.0.0",
+  "description": "Aplicación relacionada con Tutorial básico de Drizzle ORM en https://codel.io/articulos/tutorial-basico-de-drizzle-orm",
+  "keywords": [
+    "drizzleorm",
+    "typescript"
+  ],
+  "homepage": "https://github.com/codel-io/aplicacion-basica-drizzleorm#readme",
+  "bugs": {
+    "url": "https://github.com/codel-io/aplicacion-basica-drizzleorm/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codel-io/aplicacion-basica-drizzleorm.git"
+  },
+  "license": "ISC",
+  "author": "Sergio Gallardo",
+  "type": "commonjs",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "tsx src/index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.4.6",
+    "@types/node": "^25.3.5",
+    "drizzle-kit": "^0.31.9",
+    "tsx": "^4.21.0"
+  },
+  "dependencies": {
+    "@libsql/client": "^0.17.0",
+    "dotenv": "^17.3.1",
+    "drizzle-orm": "^0.45.1"
+  }
+}

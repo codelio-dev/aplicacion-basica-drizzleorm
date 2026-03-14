@@ -1,0 +1,46 @@
+# Dependencies
+node_modules/
+/jspm_packages/
+
+# TypeScript / Build
+/dist
+/build
+/tsconfig.tsbuildinfo
+*.tsbuildinfo
+
+# Drizzle ORM - DO NOT IGNORE MIGRATIONS
+# Keep these to ensure database consistency across environments
+# /drizzle/snapshot.json # Often recommended to keep, or ignore if desired
+# drizzle-temp/ # If you have a temporary folder
+
+# Drizzle - IGNORE THESE
+.drizzle/
+local.db
+
+# Environment variables & Secrets
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.secret
+*.pem
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# IDE/Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# OS
+.DS_Store
+Thumbs.db
